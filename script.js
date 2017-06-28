@@ -8,10 +8,10 @@ $( document ).ready(function() {
     });
 
 $("#submit").click(function(){
-if($("input").val()==="Oppong"){
+if($("input").val()==="Bootstrap"){
     alert("You are very smart")
 }else{
-    alert("Try again champ")
+    alert("Try again!")
 }
 });
 });
